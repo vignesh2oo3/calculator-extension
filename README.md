@@ -44,17 +44,8 @@ Respond to user feedback and bug reports to improve your extension over time.
 output :
 
 
-
-
-
-
-
-
-
-
+![Screenshot 2024-05-07 152717](https://github.com/vignesh2oo3/calculator-extension/assets/169079078/c1bdb50a-6d2e-441a-8dfd-58bbe66c0664)
 
 
 ![Screenshot 2024-05-07 153835](https://github.com/vignesh2oo3/calculator-extension/assets/169079078/96a2cc88-2b4e-4c47-bee7-bdc4058922d0)
 
-
-![Screenshot 2024-05-07 152717](https://github.com/vignesh2oo3/calculator-extension/assets/169079078/c1bdb50a-6d2e-441a-8dfd-58bbe66c0664)
