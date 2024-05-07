@@ -46,8 +46,8 @@ output :
 
 ![Screenshot 2024-05-07 152717](https://github.com/vignesh2oo3/calculator-extension/assets/169079078/fd60e60e-0321-43b7-8348-e176b0b58680)
 
-![Screenshot 2024-05-07 153835](https://github.com/vignesh2oo3/calculator-extension/assets/169079078/2e793a82-a256-4761-aad3-0239bbc52f45)
 
 
+![Screenshot (25)](https://github.com/vignesh2oo3/calculator-extension/assets/169079078/b01c0c99-4503-45a8-9dba-9a7ca65ce857)
 
 
